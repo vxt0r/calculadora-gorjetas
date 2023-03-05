@@ -85,27 +85,26 @@ main{
 @media (max-width:912px){
     main{
         margin-top: 3em;
-        height: 35vh;
+        height: 40vh;
     }
 }
 
 @media (max-width:820px){
     main{
        width: 35vw;
-    }    
+    }
 }
 
 @media (max-width:770px){
     main{
        width: 40vw;
-       height: 40vh;
     }
 }
 
-@media (max-width:540px){
+@media (max-width:572px){
     main{
        width: 50vw;
-       height: 70vh;
+       height: 60vh;
     }    
     .infos input{
         width: 90%;
